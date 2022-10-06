@@ -1009,96 +1009,208 @@ footer {
 @media (max-width:800px){
 
     .bg{
-        background-size: 175%;
-        width: 110%;
+        background-size: 190%;
+        width: auto;
 
 
     }
     .sec1{
-        width: 110%;
+        width: auto;
     }
     .sec2{
-        width: 110%;
+        width: auto;
     }
     .sec3{
-        width: 110%;
+        width: auto;
     }
     .sec4{
-        width: 110%;
+        width: auto;
     }
     .sec5{
-        width: 110%;
+        width: auto;
     }
     .sec6{
-        width: 110%;
+        width: auto;
     }
     footer{
-        width: 110%;
+        width: auto;
     }
+
+    .consec2 img {
+        height: 380px;
+        width: 500px;
+        padding-top: 10px;
+    
+    }
+
+
+    .con-sec2 img {
+        height: 350px;
+        width: 450px;
+        padding-top: 40px;
+      
+    }
+
+
+    .stranger .stra img {
+    width: 45px;
+    height: 60px;
+    transform: translate(-23px, -54px);
+
+}
+
+.stranger {
+    width: 240px;
+    height: 56px;
+    transform: translate(33px, -133px);
+}
+
+.small-box{
+   transform: translate(-8px,-10px);
+}
+
+
+.download-icon {
+    transform: translate(1px, 6px);
+    font-size: 13px;
+}
+
+
+
+.sec3-con2 img {
+    height: 350px;
+    width: 450px;
+    padding-top: 50px;
+}
+
+.sec4-con1 img {
+    height: 350px;
+    width: 450px;
+    padding-top: 50px;
+
+}
+
+
 
 }
 
 @media (max-width:730px){
 
     .bg{
-        background-size: 175%;
-        width: 113%;
+        background-size: 190%;
+        width: auto;
 
 
     }
 
     .sec1{
-        width: 113%;
+        width: auto;
     }
     .sec2{
-        width: 113%;
+        width: auto;
     }
     .sec3{
-        width: 113%;
+        width: auto;
     }
     .sec4{
-        width: 113%;
+        width: auto;
     }
     .sec5{
-        width: 113%;
+        width: auto;
     }
     .sec6{
-        width: 113%;
+        width: auto;
     }
     footer{
-        width: 113%;
+        width: auto;
     }
+
+
 }
 
 @media (max-width:700px){
     .bg{
-        background-size: 175%;
-        width: 125%;
+        background-size: 205%;
+        width: auto;
 
 
     }
 
     .sec1{
-        width: 125%;
+        width: auto;
     }
     .sec2{
-        width: 125%;
+        width: auto;
     }
     .sec3{
-        width: 125%;
+        width: auto;
     }
     .sec4{
-        width: 125%;
+        width: auto;
     }
     .sec5{
-        width: 125%;
+        width: auto;
     }
     .sec6{
-        width: 125%;
+        width: auto;
     }
     footer{
-        width: 125%;
+        width: auto;
     }
+
+    .consec2 img {
+        height: 350px;
+        width: 450px;
+        padding-top: 10px;
+    
+    }
+
+
+    .con-sec2 img {
+        height: 330px;
+        width: 420px;
+        padding-top: 40px;
+      
+    }
+
+
+    .stranger .stra img {
+    width: 45px;
+    height: 60px;
+    transform: translate(-23px, -54px);
+
+}
+
+.stranger {
+    width: 240px;
+    height: 56px;
+    transform: translate(20px, -133px);
+}
+
+.small-box{
+   transform: translate(-8px,-10px);
+}
+
+
+.download-icon {
+    transform: translate(1px, 6px);
+    font-size: 13px;
+}
+
+
+
+.sec3-con2 img {
+    height: 320px;
+    width: 410px;
+    padding-top: 50px;
+}
+
+.sec4-con1 img {
+    height: 320px;
+    width: 410px;
+    padding-top: 50px;
+
+}
 }
 
 @media (max-width:650px){
@@ -1121,7 +1233,7 @@ footer {
      
 .search input {
     height: 55px;
-    width: 600px;
+    width: 4ff00px;
    
 }
 
@@ -1144,7 +1256,7 @@ footer {
 
  .search2 input {
     height: 55px;
-    width: 600px;
+    width: 400px;
    
 }
 
@@ -1158,64 +1270,64 @@ footer {
 }
 
 .bg{
-    background-size: 175%;
-    width: 135%;
+    background-size: 205%;
+    width: 140%;
 
 
 }
 
 .sec1{
-    width: 135%;
+    width: 140%;
 }
 .sec2{
-    width: 135%;
+    width: 140%;
 }
 .sec3{
-    width: 135%;
+    width: 140%;
 }
 .sec4{
-    width: 135%;
+    width: 140%;
 }
 .sec5{
-    width: 135%;
+    width: 140%;
 }
 .sec6{
-    width: 135%;
+    width: 140%;
 }
 footer{
-    width: 135%;
+    width: 140%;
 }
 
 }
 
 @media (max-width:600px){
     .bg{
-        background-size: 175%;
-        width: 145%;
+        background-size: 205%;
+        width:140%;
     
     
     }
     
     .sec1{
-        width: 145%;
+        width:140%;
     }
     .sec2{
-        width: 145%;
+        width:140%;
     }
     .sec3{
-        width: 145%;
+        width:140%;
     }
     .sec4{
-        width: 145%;
+        width:140%;
     }
     .sec5{
-        width: 145%;
+        width:140%;
     }
     .sec6{
-        width: 145%;
+        width:140%;
     }
     footer{
-        width: 145%;
+        width:140%;
     }
     .footerlist {
         display: flex;
@@ -1227,63 +1339,63 @@ footer{
 
 @media (max-width:550px){
     .bg{
-        background-size: 183%;
-        width: 160%;
+        background-size: 205%;
+        width: 140%;
     
     
     }
     
     .sec1{
-        width: 160%;
+        width: 140%;
     }
     .sec2{
-        width: 160%;
+        width: 140%;
     }
     .sec3{
-        width: 160%;
+        width: 140%;
     }
     .sec4{
-        width: 160%;
+        width: 140%;
     }
     .sec5{
-        width: 160%;
+        width: 140%;
     }
     .sec6{
-        width: 160%;
+        width: 140%;
     }
     footer{
-        width: 160%;
+        width: 140%;
     }
 }
 
 @media (max-width:500px){
     .bg{
-        background-size: 185%;
-        width: 180%;
+        background-size: 205%;
+        width: 160%;
     
     
     }
     
     .sec1{
-        width: 180%;
+        width: 160%;
     }
     .sec2{
-        width: 180%;
+        width: 160%;
     }
     .sec3{
-        width: 180%;
+        width: 160%;
     }
     .sec4{
-        width: 180%;
+        width: 160%;
     }
     .sec5{
-        width: 180%;
+        width: 160%;
     }
     .sec6{
-        width: 180%;
+        width: 160%;
     }
     footer{
-        width: 180%;
+        width: 160%;
     }    
 
     .self{
@@ -1294,7 +1406,7 @@ footer{
 
 
 @media (max-width:450px){
-    .bg{
+    /* .bg{
         background-size: 185%;
         width: 195%;
     
@@ -1322,76 +1434,95 @@ footer{
     footer{
         width: 195%;
     }    
-  
+   */
+
+   .sec5-buttons .bl .no1 .b1 .but1{
+    font-size: 20px;
+}
+.sec5-buttons .bl .no2 .b2 .but2{
+    font-size: 20px;
+}
+.sec5-buttons .bl .no3 .b3 .but3{
+    font-size: 20px;
+}
+.sec5-buttons .bl .no4 .b4 .but4{
+    font-size: 20px;
+}
+.sec5-buttons .bl .no5 .b5 .but5{
+    font-size: 20px;
+}
+.sec5-buttons .bl .no6 .b6 .but6{
+    font-size: 20px;
+}
 }
 
 @media (max-width:400px){
     .bg{
-        background-size: 195%;
-        width: 215%;
+        background-size: 215%;
+        width: 187%;
     
     
     }
     
     .sec1{
-        width: 215%;
+        width: 187%;
     }
     .sec2{
-        width: 215%;
+        width: 187%;
     }
     .sec3{
-        width: 215%;
+        width: 187%;
     }
     .sec4{
-        width: 215%;
+        width: 187%;
     }
     .sec5{
-        width: 215%;
+        width: 187%;
     }
     .sec6{
-        width: 215%;
+        width: 187%;
     }
     footer{
-        width: 215%;
+        width: 187%;
     }    
   
 }
 
 @media (max-width:350px){
     .bg{
-        background-size: 208%;
-        width: 260%;
+        background-size: 215%;
+        width: 210%;
     
     
     }
     
     .sec1{
-        width: 260%;
+        width: 210%;
     }
     .sec2{
-        width: 260%;
+        width: 210%;
     }
     .sec3{
-        width: 260%;
+        width: 210%;
     }
     .sec4{
-        width: 260%;
+        width: 210%;
     }
     .sec5{
-        width: 260%;
+        width: 210%;
     }
     .sec6{
-        width: 260%;
+        width: 210%;
     }
     footer{
-        width: 260%;
+        width: 210%;
     }    
   
 }
 
 
 @media (max-width:300px){
-    .bg{
+    /* .bg{
         background-size: 208%;
         width: 300%;
     
@@ -1418,13 +1549,13 @@ footer{
     }
     footer{
         width: 300%;
-    }    
+    }     */
   
 }
 
 
 @media (max-width:270px){
-    .bg{
+    /* .bg{
         background-size: 208%;
         width: 315%;
     
@@ -1451,6 +1582,6 @@ footer{
     }
     footer{
         width: 315%;
-    }    
+    }     */
   
 }
